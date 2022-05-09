@@ -10,3 +10,7 @@ admin : abdelhaq pass : abdelhaq@1999
 
 
 author : haq   pass : akrate1234
+
+
+
+Link : http://localhost/wordpress/
