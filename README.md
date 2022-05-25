@@ -6,6 +6,9 @@ Les étapes d'installation
 -insérer les informations de connexion dans le site wordpress
 
 
+-install le theme .
+
+
 admin : abdelhaq pass : abdelhaq@1999
 
 
