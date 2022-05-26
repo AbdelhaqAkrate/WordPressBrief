@@ -9,6 +9,9 @@ Les étapes d'installation
 -install le theme .
 
 
+edit ton theme apres sa et voila.
+
+
 admin : abdelhaq pass : abdelhaq@1999
 
 
